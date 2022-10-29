@@ -1,16 +1,16 @@
 {
-"name": "lava800",
-"theme": "lava800",
-"version": "9.2.2",
-"description": "lava800 ทางเข้าหลักเว็บไซต์พนันเว็บตรง ไม่ผ่านเอเย่นต์ ให้โบนัสเครดิตฟรี",
-"keywords": [
-"lava800",
-"lava800 เครดิตฟรี",
-"lava800 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/lava800",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "lava800",
+  "theme": "lava800",
+  "version": "9.3.0",
+  "description": "lava800 ทางเข้าหลักเว็บไซต์พนันเว็บตรง ไม่ผ่านเอเย่นต์ ให้โบนัสเครดิตฟรี",
+  "keywords": [
+    "lava800",
+    "lava800 เครดิตฟรี",
+    "lava800 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/lava800",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
